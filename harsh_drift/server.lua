@@ -1,8 +1,8 @@
 
 
-local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/876616058247733298/TTmbXWtA9cKjXmkjGVOxlqgFk_7UfAucYQUvF16d2hF4mDZvAgr_VvYH_Jeu18fTei7K" -- Here you need write the id of the weebhook copied in the options of the channel
+local DISCORD_WEBHOOK = "DISCORD_WEBHOOK" -- Here you need write the id of the weebhook copied in the options of the channel
 local DISCORD_NAME = "DriftKing" -- Write the name as you want, example ls-logs
-local STEAM_KEY = "1B781F57CB4D61FEF4FADB318FC78756" -- Write here your steam key
+local STEAM_KEY = "STEAM_KEY" -- Write here your steam key
 local DISCORD_IMAGE = "" -- This its optional if you wont let it empty
 
 
